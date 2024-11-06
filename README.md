@@ -1,1 +1,2 @@
-# Jira-Fundamentals
+# Learning Jira. 
+
